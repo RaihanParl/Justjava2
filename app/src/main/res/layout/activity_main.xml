@@ -19,7 +19,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal">
-
+<!--onclick cara kedua dengan memberi atribut onclick di dalama widget dan memanggil nama onclicknya di java -->
         <Button
             android:layout_width="48dp"
             android:layout_height="48dp"
